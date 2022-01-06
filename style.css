@@ -77,6 +77,13 @@ body {
   background-color: #fff1e659;
 }
 
+.box-para {
+  text-align: left;
+  font-size: 16px;
+  line-height: 24px;
+  word-spacing: 0px;
+}
+
 .corona {
   border-radius: 25px;
   margin: 100px 100px;
@@ -94,17 +101,12 @@ h2 {
 .section1 {
   margin: 100px 100px 100px 300px;
 }
+
 .corona-half {
   padding: 25px 25px;
   width: 25%;
 }
 
-.box-para {
-  text-align: left;
-  font-size: 16px;
-  line-height: 24px;
-  word-spacing: 0px;
-}
 .box {
   text-align: center;
   font-size: 16px;
@@ -112,15 +114,6 @@ h2 {
   word-spacing: 0px;
   margin: 0 0 0 0;
   display: block;
-}
-
-footer {
-  background-color: #0b0d17;
-  font-family: "Spline Sans", sans-serif;
-  color: white;
-  text-align: center;
-  padding: 25px 0;
-  margin-top: 25px 0 0 0;
 }
 
 .box a {
@@ -151,4 +144,13 @@ p a {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+footer {
+  background-color: #0b0d17;
+  font-family: "Spline Sans", sans-serif;
+  color: white;
+  text-align: center;
+  padding: 25px 0;
+  margin-top: 25px 0 0 0;
 }
