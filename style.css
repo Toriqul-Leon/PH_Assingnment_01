@@ -14,11 +14,15 @@ body {
   width: 75%;
 }
 
-.ilus {
+.notification-icon {
   width: 150px;
 }
-.ilus1 {
+.corona-box {
   width: 150px;
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .half {
@@ -91,12 +95,6 @@ h2 {
 .corona-half {
   padding: 25px 25px;
   width: 25%;
-}
-.ilus1 {
-  width: 30%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .box-para {
